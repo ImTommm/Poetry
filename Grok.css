@@ -1,0 +1,27 @@
+@import url(https://fonts.googleapis.com/css?family=Sacramento);
+body {
+    color: rgb(100, 60, 77);
+    background-color: rgb(251, 251, 251);
+
+}
+p {
+    width: 255px;
+    line-height: 2;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 255px;
+    font-size: 28px;
+    font-weight: normal;
+}
+h1 {
+    font-family: "Sacramento", serif;
+    font-size: 64px;
+}
+h2 {
+    font-family: "Sacramento", serif;
+    text-align: right;
+    font-size: 36px;
+}
+
